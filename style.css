@@ -2,6 +2,22 @@
     padding: 0;
     margin: 0;
 }
+#laba{
+    float: left;
+    position: absolute;
+    left: 170px;
+    top: 80px;
+}
+#container{
+    width: 1175px;
+    position: relative;
+    left: 190px;
+    top: 80px;
+}
+#p{
+    position: relative;
+    left: 1200px;
+}
 ul,li{
     list-style: none;
 }
